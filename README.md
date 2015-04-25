@@ -1,4 +1,4 @@
-# daa
+# Data analysis and algorithms
 Data structures solved  
 Contains codes for bst and its relevant operations like 
 * printing tree level wise, 
